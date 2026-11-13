@@ -1,0 +1,10 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "boxes": 2,
+    "lastLabel": "PH-002-01"
+  }
+}
